@@ -7,7 +7,6 @@ class MoviesController < ApplicationController
   end
 
   def director
-    render :index
   end
 
   def index
